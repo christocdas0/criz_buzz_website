@@ -1,7 +1,7 @@
 import Badge from "@mui/material/Badge";
 import SearchIcon from "@mui/icons-material/Search";
 import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
-import FavoriteBorderIcon from '@mui/icons-material/FavoriteBorder'; // wishlist
+//import FavoriteBorderIcon from '@mui/icons-material/FavoriteBorder'; // wishlist
 import React from "react";
 import styled from "styled-components";
 import { mobile } from "../responsive";
