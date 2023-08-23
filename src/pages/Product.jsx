@@ -131,7 +131,7 @@ const Product = () => {
     });
     //debugger
     setProduct(currentProduct[0]);
-    console.log(currentProduct[0])
+    //console.log(currentProduct[0])
   }, []);
 
   return (
