@@ -89,7 +89,7 @@ const Navbar = () => {
         </Left>
         <Center>
           <Link to="/">
-            <Logo>CRIZ.</Logo>
+            <Logo>BUZ CRIZZ</Logo>
           </Link>
         </Center>
         <Right>
